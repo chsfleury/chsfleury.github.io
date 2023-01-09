@@ -1,0 +1,32 @@
+
+header h4, header h5 {
+    text-align: left;
+}
+
+header {
+    height: 125px;
+    margin-bottom: 50px;
+    padding-top: 48px;
+    border-bottom: 2px solid #ffffff;
+}
+
+ul li {
+    font-size: 30px;
+}
+
+header.details {
+    height: 60px;
+}
+
+main {
+    height: 475px;
+}
+
+main.details {
+    height: 440px;
+    text-align: left;
+}
+
+main.details ul li {
+    font-size: 20px;
+}
